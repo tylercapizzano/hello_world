@@ -63,9 +63,5 @@ Classify.description()
 Classify.findingperfectnumbers()
 Classify.printingpropers()
 
-Classify = ClassifyingNumbers(300)
-Classify.description()        
-Classify.findingperfectnumbers()
-Classify.printingpropers()
 
 
